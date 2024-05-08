@@ -1,16 +1,20 @@
-### Hi there 👋
+# hey!
+I am Trolling, and I'm currently interested in cyber security, reverse engineering, and a little tomfoolery.
 
-<!--
-**trollingith/trollingith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## intro
+I'm a backend developer<br/>
+Proud hater of Python (although I still use it)<br/>
+contact (rarely checked): @mvwqgzynax<br/>
 
-Here are some ideas to get you started:
+## fluent
+<img href="#" src="https://skillicons.dev/icons?i=cs,lua,js,nodejs,express,npm,replit&perline=7" /></br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## learning
+<img href="#" src="https://skillicons.dev/icons?i=go,java,html,nodejs,github,linux&perline=7" /> </br>
+
+## stats
+<a href="#">![stats](https://github-readme-stats.vercel.app/api?username=trollingith&theme=dark&count_private=true&hide_border=true&line_height=20)</a>
+
+<a href="#">![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trollingith&layout=compact&theme=dark&count_private=true&hide_border=true)</a>
+
+<a href="#">![views](https://komarev.com/ghpvc/?username=trollingith&color=D22B2B)</a>
