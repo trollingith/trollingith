@@ -18,3 +18,7 @@ contact (rarely checked): @mvwqgzynax<br/>
 <a href="#">![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trollingith&layout=compact&theme=dark&count_private=true&hide_border=true)</a>
 
 <a href="#">![views](https://komarev.com/ghpvc/?username=trollingith&color=D22B2B)</a>
+
+## notice
+almost all of my projects are private and practically none will have its source open
+this account will just be there because why not
