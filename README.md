@@ -22,3 +22,4 @@ contact (rarely checked): @mvwqgzynax<br/>
 ## notice
 almost all of my projects are private and practically none will have its source open
 this account will just be there because why not
++ this isnt my main github account
